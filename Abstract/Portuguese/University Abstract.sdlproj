@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="ba205451-a0fd-4a40-bb98-fd659e16fca3" SettingsBundleGuid="590f1ac8-8e2a-4809-9102-88bdf4562d88" Version="4.0.0.0" Owner="Luis_Paiva\Luis" ProjectTemplateGuid="10004f3b-4acf-4425-a3e3-38d3b3514276" ReferenceProjectGuid="00000000-0000-0000-0000-000000000000">
+  <LanguageDirections>
+    <LanguageDirection Guid="aa291d53-bda5-4673-af49-b50d9ad7eb5d" SettingsBundleGuid="46e55a53-b0df-4f93-af38-437de0573dc6" TargetLanguageCode="en-GB" SourceLanguageCode="pt-PT">
+      <AutoSuggestDictionaries />
+      <AnalysisStatistics WordCountStatus="Complete" AnalysisStatus="Complete">
+        <Total Words="313" Characters="1782" Segments="10" Placeables="7" Tags="6" />
+        <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+        <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+        <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+        <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+        <Fuzzy>
+          <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+        </Fuzzy>
+        <New Words="313" Characters="1782" Segments="10" Placeables="7" Tags="6" />
+      </AnalysisStatistics>
+      <CascadeItem OverrideParent="false" StopSearchingWhenResultsFound="false" />
+    </LanguageDirection>
+  </LanguageDirections>
+  <TermbaseConfiguration>
+    <LanguageIndexMappings>
+      <Language>pt-PT</Language>
+    </LanguageIndexMappings>
+    <LanguageIndexMappings>
+      <Language>en-GB</Language>
+    </LanguageIndexMappings>
+    <RecognitionOptions>
+      <ShowWithNoAvailableTranslation>false</ShowWithNoAvailableTranslation>
+      <MinimumMatchValue>70</MinimumMatchValue>
+      <SearchDepth>200</SearchDepth>
+      <SearchOrder>Parallel</SearchOrder>
+    </RecognitionOptions>
+  </TermbaseConfiguration>
+  <SettingsBundles>
+    <SettingsBundle Guid="590f1ac8-8e2a-4809-9102-88bdf4562d88">
+      <SettingsBundle>
+        <SettingsGroup Id="SourceContentSettings">
+          <Setting Id="AllowSourceEditing">False</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="FileTypeManagerConfigurationSettingsGroup">
+          <Setting Id="FileTypeManagerConfigurationSettings">
+            <FileTypeManagerConfigurationList xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sdl.com/projectapi">
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>SDL XLIFF 1.0 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>TTX 2.0 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>ITD v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Word 2000-2003 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Word 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PowerPoint XP-2003 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PowerPoint 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Excel 2007 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Excel 2003 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Bilingual Workbench 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>RTF v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XHTML 1.1 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>HTML v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker 8.0 v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Inx 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>IDML v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>ICML Filter 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odt 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odp 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Ods 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>QuarkXPress v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XLIFF 1.1-1.2 v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>WsXliff 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PDF v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>CSV v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Tab Delimited v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Java Resources v 2.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: RESX v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.2 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>DocBook 4.5 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: ITS 1.0 v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Any v 1.2.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Plain Text v 1.0.0.0</FileTypeDefinitionId>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.1 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker 8.0 v 1.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+              </FileTypeManagerConfigurationItem>
+            </FileTypeManagerConfigurationList>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="PerfectMatchTaskSettings">
+          <Setting Id="MarkAsPerfectMatchAndLock">True</Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="703c01e4-7a43-4a9f-be62-4877d4a1b2b0">
+      <SettingsBundle>
+        <SettingsGroup Id="IgnoredMessagesSettings">
+          <Setting Id="IgnoredMessagesData">
+            <IgnoredMessagesData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi">
+              <IgnoredMessageIds>
+              </IgnoredMessageIds>
+              <IgnoredMessageTypes xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              </IgnoredMessageTypes>
+            </IgnoredMessagesData>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+  </SettingsBundles>
+  <InitialTaskTemplate Description="ComplexTask_Prepare_NoProjectTM_Description" Name="ComplexTask_Prepare_NoProjectTM_Name" Id="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM">
+    <SubTaskTemplates>
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Conversion" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Split" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.PerfectMatch" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" />
+      <SubTaskTemplate TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" />
+    </SubTaskTemplates>
+  </InitialTaskTemplate>
+  <AnalysisBands>
+    <AnalysisBand MinimumMatchValue="50" />
+    <AnalysisBand MinimumMatchValue="75" />
+    <AnalysisBand MinimumMatchValue="85" />
+    <AnalysisBand MinimumMatchValue="95" />
+  </AnalysisBands>
+  <ManualTaskTemplates />
+  <Users>
+    <User UserId="Luis_Paiva\Luis" FullName="Luis_Paiva\Luis" EmailType="None" />
+  </Users>
+  <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false">
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file:///D:/Documentos/Universidade/Dissertação/Abstract/TM/UniversityDissertationAbstract.sdltm" Enabled="true" />
+    </CascadeEntryItem>
+  </CascadeItem>
+  <GeneralProjectInfo StartedAt="2015-09-17T16:37:05.6704964Z" IsInPlace="false" IsImported="false" Description="" Name="University Abstract" Status="Started" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T16:19:08.418179Z" />
+  <SourceLanguageCode>pt-PT</SourceLanguageCode>
+  <ProjectFiles>
+    <ProjectFile Guid="343b314e-c24c-4e15-9801-0c964143e10c" Path="" Role="Translatable" Name="Abstract.doc" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Word 2000-2003 v 1.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" SettingsBundleGuid="f7df8138-62ce-4bb3-9a22-b54f27f2b505" LanguageCode="pt-PT">
+          <FileVersions>
+            <FileVersion Guid="27c5d828-e15a-45ca-9bca-d62fbce14af7" VersionNumber="1" Size="29696" FileName="Abstract.doc" PhysicalPath="pt-PT\Abstract.doc" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T16:34:08.8263891Z" FileTimeStamp="2015-09-17T16:33:20.651Z" />
+            <FileVersion Guid="f297a999-d41f-478b-8839-ac5d184df0c0" VersionNumber="2" Size="26254" FileName="Abstract.doc.sdlxliff" PhysicalPath="pt-PT\Abstract.doc.sdlxliff" Comment="" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T16:37:11.2284924Z" FileTimeStamp="2015-09-17T16:37:11.1777075Z" />
+          </FileVersions>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="90efd0ec-2f1a-4d42-b78e-7943184a9797" SettingsBundleGuid="703c01e4-7a43-4a9f-be62-4877d4a1b2b0" LanguageCode="en-GB">
+          <FileVersions>
+            <FileVersion Guid="9da0fd99-8bf3-4ff5-9cb7-1f3f96e366e1" VersionNumber="3" Size="26254" FileName="Abstract.doc.sdlxliff" PhysicalPath="en-GB\Abstract.doc.sdlxliff" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T16:37:11.3046689Z" FileTimeStamp="2015-09-17T16:37:11.1777075Z" />
+            <FileVersion Guid="f05c092a-5def-4dc8-8cc4-d0b304c12d13" VersionNumber="4" Size="27431" FileName="Abstract.doc.sdlxliff" PhysicalPath="en-GB\Abstract.doc.sdlxliff" Comment="Created by 'Apply PerfectMatch+Analyze Files+Pre-translate Files'" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T16:37:14.9650755Z" FileTimeStamp="2015-09-17T16:37:14.9377284Z" />
+            <FileVersion Guid="162c4b93-95d6-4896-bd23-10d9ac543f0d" VersionNumber="5" Size="32768" FileName="Abstract.doc" PhysicalPath="en-GB\Abstract.doc" CreatedBy="Luis_Paiva\Luis" CreatedAt="2015-09-17T17:57:26.8144832Z" FileTimeStamp="2015-09-17T17:57:26.7588163Z" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2015-09-17T16:37:11.1777075Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2015-09-17T16:37:11.1777075Z" AnalysisStatus="Complete">
+            <Total Words="313" Characters="1782" Segments="10" Placeables="7" Tags="6" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="313" Characters="1782" Segments="10" Placeables="7" Tags="6" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2015-09-17T17:53:29.2442725Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="313" Characters="1782" Segments="10" Placeables="7" Tags="6" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+  </ProjectFiles>
+  <Tasks>
+    <AutomaticTask Guid="66b3902a-5074-40b2-83b6-001629adc5ae" Status="Completed" CompletedAt="2015-09-17T16:31:13.7910102Z" PercentComplete="100" CreatedAt="2015-09-17T16:31:02.6007948Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-09-17T16:31:03.796189Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files />
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="cb97985b-0618-4997-858f-88cb5047373c" Purpose="ReferenceFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="0563a9fe-0c86-44e2-bcf9-b319679c11cd" Status="Completed" CompletedAt="2015-09-17T16:34:16.6179382Z" PercentComplete="100" CreatedAt="2015-09-17T16:34:08.8273679Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-09-17T16:34:08.8293204Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Scan</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="d432f2a2-d179-433e-9034-8971aee0d62c" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="b8cf69fe-9a82-49c0-a6cc-e4b01ad2c81f" Status="Completed" CompletedAt="2015-09-17T16:37:11.2284924Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-09-17T16:37:05.6704964Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-09-17T16:37:07.4381962Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Conversion</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="69e0cf80-bf1a-49e1-b2c2-017c53cd4c33" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="f37c98b8-942e-4d62-883b-8ada95bc9b62" Status="Completed" CompletedAt="2015-09-17T16:37:11.3495944Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-09-17T16:37:05.6704964Z" PredecessorTaskGuid="b8cf69fe-9a82-49c0-a6cc-e4b01ad2c81f" StartedAt="2015-09-17T16:37:11.2363056Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Split</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="74fd4928-4c0b-4e59-bf77-402a6a688505" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="d60e5a45-99ff-4413-99f2-d7e5d9b071ea" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="90efd0ec-2f1a-4d42-b78e-7943184a9797" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="6e9ffc14-9b21-47de-91aa-ce9d8472bff0" Status="Completed" CompletedAt="2015-09-17T16:37:15.0383238Z" ComplexTaskTemplateId="Sdl.ProjectApi.AutomaticTask.Prepare.NoProjectTM" PercentComplete="100" CreatedAt="2015-09-17T16:37:05.6704964Z" PredecessorTaskGuid="f37c98b8-942e-4d62-883b-8ada95bc9b62" StartedAt="2015-09-17T16:37:11.4013562Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.PerfectMatch</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Translate</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="f40ec4b2-0060-4078-9375-b652c572e4af" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="90efd0ec-2f1a-4d42-b78e-7943184a9797" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="90efd0ec-2f1a-4d42-b78e-7943184a9797" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="1c1b2c02-b81a-4950-832b-e1bb1bafa6a4" Name="Analyze Files Report" Description="Statistics showing the expected leverage from applying the translation memories." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="aa291d53-bda5-4673-af49-b50d9ad7eb5d" PhysicalPath="Reports\Analyze Files pt-PT_en-GB.xml" />
+        <Report Guid="30376aba-245d-4381-9970-3480a15771a5" Name="Pre-translate Files Report" Description="Results of applying the translation memories to the files." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Translate" LanguageDirectionGuid="aa291d53-bda5-4673-af49-b50d9ad7eb5d" PhysicalPath="Reports\Pre-translate Files pt-PT_en-GB.xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="2159c985-605c-4414-ba1e-d5011c76938f" Status="Completed" CompletedAt="2015-09-17T17:57:26.8144832Z" PercentComplete="100" CreatedAt="2015-09-17T17:57:22.5475844Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" StartedAt="2015-09-17T17:57:23.6502007Z" CreatedBy="Luis_Paiva\Luis">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.GenerateTargetTranslation</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="85cf29f1-eac8-436f-a881-511712a61bbe" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="90efd0ec-2f1a-4d42-b78e-7943184a9797" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="90efd0ec-2f1a-4d42-b78e-7943184a9797" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+  </Tasks>
+</Project>
